@@ -1,0 +1,18 @@
+{
+    "short-name": "aboutiv2",
+    "name": "Ghostlab",
+    "start_url": ".",
+    "displlay": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "Pagina sobre a Ghostlab",
+    "icons": [
+        {
+            "src": "img/logo.png",
+            "type": "img/png",
+            "sizes": "382x382"
+        }
+    ]
+}
